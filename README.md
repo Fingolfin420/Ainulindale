@@ -22,6 +22,10 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
    - [Steam Set-Up](#steam-set-up)
    - [Changing The Game Language](#changing-the-game-language)
    - [Installing Creation Club Files](#installing-creation-club-files)
+2. [Wabbajack Installation]()
+   - [Installing Wabbajack]()
+3. [Downloading and Installing Ainulindale]()
+4. [Updating the Modlist]()
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
 
@@ -155,7 +159,7 @@ To install Ainulindale, complete the following steps:
  6. Turn on your favorite show or find something else to do as Wabbajack does its thing. Alternatively read through this readme again.
  7. If the installation is not successful, then try closing Wabbajack and restarting the installation. It should pick up where it left off. 
 
-# Updating the modlist
+## Updating the Modlist
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
 
