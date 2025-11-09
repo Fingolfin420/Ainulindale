@@ -31,4 +31,8 @@ Before installing this list using Wabbajack, there are several pre-installation 
 
 [🔼 Back to top](#ainulindale---a-skyrim-wabbajack-mod-list)
 
+<a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+  <span>🔼 Back to top</span>
+</a>
+
 ### Steam Set-Up
