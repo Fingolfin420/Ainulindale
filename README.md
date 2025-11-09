@@ -66,4 +66,8 @@ Next, perform the following to ensure steam updates for Skyrim do not interfere 
  2. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
  3. Please ensure you follow the steps outlined in the [Installing Creation Club Files](#installing-creation-club-files) section.
 
-
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
