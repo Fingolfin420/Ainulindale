@@ -206,13 +206,13 @@ After installation, it is **imperative** that the user run this tool to acquire 
 In MO2, run the PGPatcher tool and copy the settings as shown below. Ensure that the output is generated in an MO2 mod (create empty mod if needed).
 
 <p align="center">
-  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_1.jpg">
+  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_1.png">
 </p>
 
 Click start patching after settings are specified. After PGPatcher has loaded the meshes and identified conflicts, it will produce a pop up asking the user to sort the conflicts between a number of mods. This pop up will look like the image below. 
 
 <p align="center">
-  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_2.jpg">
+  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_2.png">
 </p>
 
 You can move the mods up and down the list my clicking and dragging them to higher or lower priorities. Ensure that they are sorted according to the previous image. 
@@ -221,6 +221,10 @@ You can move the mods up and down the list my clicking and dragging them to high
 >The sort order **must be identical** to achieve the intended visual look. Deviating from the order provided can produce visual bugs or weirdly placed textures.
 
 Once PGPatcher has finished generating the needed files, ensure that the mod loads near the bottom of the load order. The image below shows where the mod assets should be placed and where the plugins should be placed. 
+
+<p align="center">
+  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_4.png">
+</p>
 
 ### Download Outputs from Ainulindale Nexus Page
 
