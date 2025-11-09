@@ -40,7 +40,11 @@ If you have your Steam Library in Program Files, read [this article](https://git
 
 Alternatively, if you have multiple drives set up for your computer, you can move your steam installation from your Windows C drive to another by following the steps below (images provided).
 
+Go to you steam installation and find your copy of Skyrim Special Edition. Click on the gear icon in the top right.
 
+<p align="center">
+  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/morgoth_fingolfin.jpg">
+</p>
 
  1. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
  2. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
