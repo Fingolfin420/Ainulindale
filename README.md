@@ -19,6 +19,7 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
 ## Table of Contents
 1. [Pre-Installation](#installation)
 2. [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
+3. [Steam Set-Up](#steam-set-up)
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
 
@@ -27,3 +28,5 @@ Before installing this list using Wabbajack, there are several pre-installation 
 2. Install [.NET Runtime 9.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 4.
+
+### Steam Set-Up
