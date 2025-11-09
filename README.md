@@ -222,6 +222,11 @@ You can move the mods up and down the list my clicking and dragging them to high
 
 Once PGPatcher has finished generating the needed files, ensure that the mod loads near the bottom of the load order. The image below shows where the mod assets should be placed and where the plugins should be placed. 
 
+<p align="center">
+  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_4.png">
+</p>
+
+
 ### Download Outputs from Ainulindale Nexus Page
 
 The final step for installing Ainulindale is easy. Ainulindale has a [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163572). On this mod page there are a number of mod files under the main section that need to be installed. They include...
@@ -234,10 +239,6 @@ The final step for installing Ainulindale is easy. Ainulindale has a [Nexus Page
 - Ainulindale - DynDOLOD_Output
 
 Install all of these mods, and ensure they follow the load order in the image below.
-
-<p align="center">
-  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/Nexus_Outputs.png">
-</p>
 
 AND that's it!
 
