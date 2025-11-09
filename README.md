@@ -240,6 +240,10 @@ The final step for installing Ainulindale is easy. Ainulindale has a [Nexus Page
 
 Install all of these mods, and ensure they follow the load order in the image below.
 
+<p align="center">
+  <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/Nexus_Outputs.png">
+</p>
+
 AND that's it!
 
 
