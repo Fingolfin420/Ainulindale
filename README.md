@@ -17,6 +17,7 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
 >You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.
 
 # Table of Contents
+0. [Hardware Reccomendations](#hardware-reccomendations)
 1. [Pre-Installation](#pre-installation)
    - [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
    - [Steam Set-Up](#steam-set-up)
@@ -25,10 +26,26 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
 2. [Wabbajack Installation](#wabbajack-installation)
    - [Installing Wabbajack](#installing-wabbajack)
 3. [Downloading and Installing Ainulindale](#downloading-and-installing-ainulindale)
-4. [Updating the Modlist](#updating-the-modlist)
-5. [Removing the Modlist](#removing-the-modlist)
+4. [Post-Installation](#post-installation)
+5. [Updating the Modlist](#updating-the-modlist)
+6. [Removing the Modlist](#removing-the-modlist)
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
+
+## Hardware Reccomendations
+
+|| Recommended | What I Use|
+| --- | --- | --- |
+| Operating System | Windows 10 or 11 | Windows 10 Home |
+| CPU | AMD Ryzen 7 5800X | Intel i5-14600K |
+| Memory | 16 - 32 GB of RAM  | 32 GB of RAM |
+| GPU | Anything with at least 12GB of VRAM should suffice | NVidia RTX 4070 12GB VRAM | 
+| Drive | SATA SSD or (preferably) NVME SSD | NVME SSD w/ 500 GB Available Storage | 
+
+>[!IMPORTANT]
+>Although 12 GB of VRAM is ideal, it is possible to use a tool like [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557) to reduce the quality of textures used in the modlist. Most textures in the list are already 2K, with 4K textures sprinkled in for specific items. Additionally,
+>PBR textures are used throughout (where possible), which do use more VRAM than complex material or parallax. VRAMr can reduce the resolution of these textures to provide a less intensive game experience, so it is recommended to try this >tool out if the modlist is too heavy on your PC. For good reason, VRAMr output is not allowed to be included in the wabbajack install or hosted on the Nexus, so users will have to generate their own output. 
+
 
 ## Pre-Installation
 
@@ -175,6 +192,16 @@ To install Ainulindale, complete the following steps:
     <span>🔼 Back to top</span>
   </a>
 </p>
+
+## Post-Installation
+
+A tool called [PGPatcher (a.k.a. ParallaxGen)](https://www.nexusmods.com/skyrimspecialedition/mods/120946) is installed as a mod in the modlist. 
+
+After installation, it is **imperative** that the user run this tool to acquire its output, which drastically improves the game's visuals when paired with the [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) modules installed. Also, the PBR texture mods in the modlist will not function with PGPatcher's output enabled. PGPatcher is set up as a tool in Ainulindale's MO2 installation. 
+
+All it takes to run the tool is to click PGPatcher's icon in MO2, and allow it to do its thing. While running, a window will pop up asking the user to sort some texture mod's conflicts. The sort order should already be taken care of, however ensure that the tool follows the order in the image below. Make changes if necessary to follow the order. 
+
+
 
 ## Updating the Modlist
 
