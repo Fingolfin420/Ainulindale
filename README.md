@@ -28,7 +28,7 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
 3. [Downloading and Installing Ainulindale](#downloading-and-installing-ainulindale)
 4. [Post-Installation](#post-installation)
    - [PGPatcher](#pgpatcher)
-   - [Download Outputs from Ainulindale Nexus Page]()
+   - [Download Outputs from Ainulindale Nexus Page](https://github.com/Fingolfin420/Ainulindale/blob/main/README.md#download-outputs-from-ainulindale-nexus-page)
 6. [Updating the Modlist](#updating-the-modlist)
 7. [Removing the Modlist](#removing-the-modlist)
 
@@ -228,7 +228,18 @@ Once PGPatcher has finished generating the needed files, ensure that the mod loa
 
 ### Download Outputs from Ainulindale Nexus Page
 
+The final step for installing Ainulindale is easy. Ainulindale has a [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163572). On this mod page there are a number of mod files under the main section that need to be installed. They include...
 
+- Ainulindale - Body Slide Output
+- Ainulindale - Nemesis Output
+- Ainulindale - xLODGen_Output
+- Ainulindale - Grass Cache
+- Ainulindale - TexGen_Output
+- Ainulindale - DynDOLOD_Output
+
+Install all of these mods, and ensure they follow the load order in the image below. 
+
+AND that's it! 
 
 
 ## Updating the Modlist
