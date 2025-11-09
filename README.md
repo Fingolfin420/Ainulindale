@@ -8,7 +8,7 @@ Ainulindale is a mod list that expands Skyrim's visuals, overhauls locations, an
 
 I named it Ainulindale because Skyrim modding seemed (still seems) to get me completely engrossed in a fantasy world, just like how I felt when I first read the Silmarillion. But don't worry, this isn't a Tolkien themed mod list. It retains what makes Skyrim, Skyrim, while bringing it closer to a modern game.
 
-# [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/163572) | Discord | Installation | [Load Order Library](https://loadorderlibrary.com/lists/ainulindale-2) | Gameplay Guide | Changelog
+# [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/163572) | Discord | [Load Order Library](https://loadorderlibrary.com/lists/ainulindale-2) | Gameplay Guide | Changelog
 
 >[!IMPORTANT]
 >Ainulindale requires the four free AE mods (Fishing, Rare Curios, Survival Mode, and Saints and Seducers) included in the Skyrim Anniversary Edition update from November 2021. This modlist does **NOT** utilize the AE DLC, only these four free AE mods are used.
@@ -20,6 +20,8 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
 1. [Pre-Installation](#pre-installation)
    - [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
    - [Steam Set-Up](#steam-set-up)
+   - [Changing The Game Language](#changing-the-game-language)
+   - [Installing Creation Club Files](#installing-creation-club-files)
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
 
@@ -71,3 +73,49 @@ Next, perform the following to ensure steam updates for Skyrim do not interfere 
     <span>🔼 Back to top</span>
   </a>
 </p>
+
+### Changing the Game Language
+
+>[!WARNING]
+>**The English Steam version of Skyrim SE is the only supported version.**
+
+I understand that this may be frustrating for non-English speaking users or users with the GOG/Bethesda.net versions, but due to the core file differences between the different versions, I am only able to support one game version.
+
+To change your Skyrim SE's language:
+
+ 1. Right click on Skyrim SE in Steam
+ 2. Click `Properties`
+ 3. Click `Language`
+ 4. Set the Language to `English`
+
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
+
+### Installing Creation Club Files
+>
+>[!WARNING]
+> ***Do NOT skip this step or your install may fail!***
+
+Since the 1.6.1130 update (January 17, 2024), Steam has begun including the free Creation Club (CC) files with the base installation of Skyrim. However, these files do not have the same file hash as the files that are downloaded from the in-game **Creations** menu for Anniversary Edition (AE) users. In order to comply with Wabbajack policy and minimize issues for users who own the AE update, Ainulindale is compiled using the versions of the CC content that are obtained from the in-game **Creations** menu.  
+
+As a result of this, for users who do not own the AE, you must ensure that you download the correct version of the CC files. Steps below:
+
+ - Navigate to your Skyrim SE's Steam Data folder
+    - e.g. `D:\SteamLibrary\steamapps\common\Skyrim Special Edition\data`
+ - Delete *both* Rare Curios files:
+    - `ccbgssse037-curios.bsa`
+    - `ccbgssse037-curios.esl`
+ - Launch Skyrim SE from Steam and select **Creations** at the main menu
+ - Select **Search** at the bottom and search for `Rare Curios`
+ - Select the card titled `Rare Curios` and press **Download**
+ - Once it is done, accept Bethesda's load order message and exit the game
+
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
+
