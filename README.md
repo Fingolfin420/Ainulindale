@@ -24,8 +24,9 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
    - [Installing Creation Club Files](#installing-creation-club-files)
 2. [Wabbajack Installation](#wabbajack-installation)
    - [Installing Wabbajack](#installing-wabbajack)
-3. [Downloading and Installing Ainulindale](downloading-and-installing-ainulindale)
+3. [Downloading and Installing Ainulindale](#downloading-and-installing-ainulindale)
 4. [Updating the Modlist](#updating-the-modlist)
+5. [Removing the Modlist](#removing-the-modlist)
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
 
@@ -172,6 +173,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 >[!IMPORTANT]
 >Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](). It is suggested that you backup your saves before updating if you plan on continuing them.
 
-# Removing the Modlist
+## Removing the Modlist
 
 Simply delete the Ainulindale folder.
