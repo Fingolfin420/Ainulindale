@@ -119,3 +119,55 @@ As a result of this, for users who do not own the AE, you must ensure that you d
   </a>
 </p>
 
+## Wabbajack Installation
+
+### Installing Wabbajack
+
+Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+
+1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example.
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Skyrim's Steam folder, or in any folders related to the modlist itself (the downloads or install folder).**
+    > - The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be on an HDD for the sake of saving space.
+
+2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
+
+3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
+
+>[!IMPORTANT]
+>The list requires Wabbajack version **4.0.0.0 or later**. Installing the modlist on older versions of Wabbajack will result in issues.
+
+### Downloading and Installing Ainulindale
+
+>[!CAUTION]
+>**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked exes.  
+
+Downloading and installing Ainulindale can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod. Nexus Premium is advised for the greatest convenience when installing the mod list. 
+
+To install Ainulindale, complete the following steps:
+
+ 1. Open Wabbajack and click `Browse lists`
+ 2. Pick the **Skyrim Special Edition** option from the game filter drop-down box (or use the search bar to find the modlist). Make sure the "Non-featured" box is checked.
+ 3. Press the download arrow on the Ainulindale UI card and wait for it to download
+ 4. Set the `Installation Location` to a folder such as `C:\Ainulindale`.
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
+    > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
+ 5. Press the `Install` button.
+ 6. Turn on your favorite show or find something else to do as Wabbajack does its thing. Alternatively read through this readme again.
+ 7. If the installation is not successful, then try closing Wabbajack and restarting the installation. It should pick up where it left off. 
+
+# Updating the modlist
+
+Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
+
+- `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
+- `MINOR`: Any release with a number change here will be considered a minor update, these updates will **not** be save safe, unless otherwise specified.
+- `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
+
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
+
+>[!IMPORTANT]
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](). It is suggested that you backup your saves before updating if you plan on continuing them.
+
+# Removing the Modlist
+
+Simply delete the Ainulindale folder.
