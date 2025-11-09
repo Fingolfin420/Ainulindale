@@ -27,8 +27,10 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
    - [Installing Wabbajack](#installing-wabbajack)
 3. [Downloading and Installing Ainulindale](#downloading-and-installing-ainulindale)
 4. [Post-Installation](#post-installation)
-5. [Updating the Modlist](#updating-the-modlist)
-6. [Removing the Modlist](#removing-the-modlist)
+   - [PGPatcher](#pgpatcher)
+   - [Download Outputs from Ainulindale Nexus Page]()
+6. [Updating the Modlist](#updating-the-modlist)
+7. [Removing the Modlist](#removing-the-modlist)
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
 
@@ -194,6 +196,8 @@ To install Ainulindale, complete the following steps:
 </p>
 
 ## Post-Installation
+
+### PGPatcher
 
 A tool called [PGPatcher (a.k.a. ParallaxGen)](https://www.nexusmods.com/skyrimspecialedition/mods/120946) is installed as a mod in the modlist. 
 
