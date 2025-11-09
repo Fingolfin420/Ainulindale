@@ -18,7 +18,7 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
 
 ## Table of Contents
 1. [Pre-Installation](#installation)
-2. [Installing Microsoft Visual C++ and .NET](microsoft-tools)
+2. [Installing Microsoft Visual C++ and .NET](#microsoft-tools)
 
 Before installing this list using Wabbajack, there are several pre-installation steps that **MUST** be followed. 
 
