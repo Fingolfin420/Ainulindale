@@ -18,9 +18,9 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/morgoth_fingolfin.jpg",
+      "image": "https://raw.githubusercontent.com/Fingolfin420/Ainulindale/refs/heads/main/page_assets/morgoth_fingolfin.jpg",
       "readme": "https://github.com/Fingolfin420/Ainulindale/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_5c1c1dea-464b-43f8-baf6-0f0bcbf1f591",
+      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_282200a9-baf7-4d53-a7a8-f42ef7b9968c",
       "machineURL": "Ainulindale",
       "discordURL": ""
     },
