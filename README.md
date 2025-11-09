@@ -164,7 +164,11 @@ To install Ainulindale, complete the following steps:
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
  5. Press the `Install` button.
  6. Turn on your favorite show or find something else to do as Wabbajack does its thing. Alternatively read through this readme again.
- 7. If the installation is not successful, then try closing Wabbajack and restarting the installation. It should pick up where it left off. 
+ 7. If the installation is not successful, then try closing Wabbajack and restarting the installation. It should pick up where it left off.
+
+>
+>[!WARNING]
+> ***While it is possible to install Ainulindale on an HDD, it is strongly advised to install it on an SSD, preferably an NVME drive.***
 
 <p align="center">
   <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
