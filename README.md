@@ -8,7 +8,7 @@ Ainulindale is a mod list that expands Skyrim's visuals, overhauls locations, an
 
 I named it Ainulindale because Skyrim modding seemed (still seems) to get me completely engrossed in a fantasy world, just like how I felt when I first read the Silmarillion. But don't worry, this isn't a Tolkien themed mod list. It retains what makes Skyrim, Skyrim, while bringing it closer to a modern game.
 
-# [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/163572) | [Load Order Library](https://loadorderlibrary.com/lists/ainulindale-2) | Gameplay Guide | [Changelog](https://github.com/Fingolfin420/Ainulindale/changelog.md)
+# [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/163572) | [Load Order Library](https://loadorderlibrary.com/lists/ainulindale-2) | Gameplay Guide | [Changelog](https://github.com/Fingolfin420/Ainulindale/blob/main/changelog.md)
 
 >[!IMPORTANT]
 >Ainulindale requires the four free AE mods (Fishing, Rare Curios, Survival Mode, and Saints and Seducers) included in the Skyrim Anniversary Edition update from November 2021. This modlist does **NOT** utilize the AE DLC, only these four free AE mods are used.
