@@ -18,20 +18,20 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
-      "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "JohnsSkyrimMakeover",
-      "discordURL": "https://discord.gg/wabbajack"
+      "image": "https://github.com/Fingolfin420/Ainulindale/blob/main/morgoth_fingolfin.jpg",
+      "readme": "https://github.com/Fingolfin420/Ainulindale/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_5c1c1dea-464b-43f8-baf6-0f0bcbf1f591",
+      "machineURL": "Ainulindale",
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "8dLEOkGgOdE=",
+      "Size": 23205230,
+      "NumberOfArchives": 1632,
+      "SizeOfArchives": 151673857016,
+      "NumberOfInstalledFiles": 139619,
+      "SizeOfInstalledFiles": 206827493774
     },
     "version": "1.0.0"
   }
