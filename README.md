@@ -29,4 +29,6 @@ Before installing this list using Wabbajack, there are several pre-installation 
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 4.
 
+[🔼 Back to top](#ainulindale---a-skyrim-wabbajack-mod-list)
+
 ### Steam Set-Up
