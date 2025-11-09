@@ -19,7 +19,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fingolfin420/Ainulindale/refs/heads/main/page_assets/morgoth_fingolfin.jpg",
-      "readme": "https://raw.githubusercontent.com/Fingolfin420/Ainulindale/refs/heads/main/README.md",
+      "readme": "https://github.com/Fingolfin420/Ainulindale/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_282200a9-baf7-4d53-a7a8-f42ef7b9968c",
       "machineURL": "Ainulindale",
       "discordURL": ""
