@@ -189,7 +189,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 </p>
 
 >[!IMPORTANT]
->Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](). It is suggested that you backup your saves before updating if you plan on continuing them.
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Fingolfin420/Ainulindale/blob/main/changelog.md). It is suggested that you backup your saves before updating if you plan on continuing them.
 
 ## Removing the Modlist
 
