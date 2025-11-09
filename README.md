@@ -141,6 +141,12 @@ Once you have completed the pre-installation section, follow these steps to inst
 >[!IMPORTANT]
 >The list requires Wabbajack version **4.0.0.0 or later**. Installing the modlist on older versions of Wabbajack will result in issues.
 
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
+
 ### Downloading and Installing Ainulindale
 
 >[!CAUTION]
@@ -160,6 +166,12 @@ To install Ainulindale, complete the following steps:
  6. Turn on your favorite show or find something else to do as Wabbajack does its thing. Alternatively read through this readme again.
  7. If the installation is not successful, then try closing Wabbajack and restarting the installation. It should pick up where it left off. 
 
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
+
 ## Updating the Modlist
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
@@ -170,9 +182,21 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
+
 >[!IMPORTANT]
 >Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](). It is suggested that you backup your saves before updating if you plan on continuing them.
 
 ## Removing the Modlist
 
-Simply delete the Ainulindale folder.
+Simply delete the Ainulindale folder. That's it, you don't have to do anything else. Enjoy!
+
+<p align="center">
+  <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
+    <span>🔼 Back to top</span>
+  </a>
+</p>
