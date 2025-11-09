@@ -27,7 +27,6 @@ Before installing this list using Wabbajack, there are several pre-installation 
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [.NET Runtime 9.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
-4.
 
 <p align="center">
   <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
@@ -36,3 +35,13 @@ Before installing this list using Wabbajack, there are several pre-installation 
 </p>
 
 ### Steam Set-Up
+
+If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
+
+Alternatively, if you have multiple drives set up for your computer, you can move your steam installation from your Windows C drive to another by following the steps below (images provided).
+
+
+
+ 1. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 2. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
+ 3. Please ensure you follow the steps outlined in the [Installing Creation Club Files](#installing-creation-club-files) section.
