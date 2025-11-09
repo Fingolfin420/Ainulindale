@@ -243,7 +243,7 @@ Install all of these mods, and ensure they follow the load order in the image be
   <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/Nexus_Outputs.png">
 </p>
 
-AND that's it! 
+AND that's it!
 
 
 ## Updating the Modlist
