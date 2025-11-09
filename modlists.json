@@ -1,1 +1,38 @@
-
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ainulindale",
+    "description": "Ainulindale is a mod list that expands Skyrim's visuals, overhauls locations, and includes minor combat tweaks. It doesn't go overboard changing game mechanics. Expect lots of city and location overhauls and great (imo) visuals. I named it Ainulindale because Skyrim modding seemed (still seems) to get me completely engrossed in a fantasy world, just like how I felt when I first read the Silmarillion. But don't worry, this isn't a Tolkien themed mod list. It retains what makes Skyrim, Skyrim, while bringing it closer to a modern game. ",
+    "author": "Fingolfin420",
+    "maintainers": [
+      "github/Fingolfin420"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "readme": "https://keizaal.github.io/Keizaal/",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "JohnsSkyrimMakeover",
+      "discordURL": "https://discord.gg/wabbajack"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0.0"
+  }
+]
