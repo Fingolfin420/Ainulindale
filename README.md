@@ -183,7 +183,7 @@ To install Ainulindale, complete the following steps:
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
  5. Press the `Install` button.
  6. Turn on your favorite show or find something else to do as Wabbajack does its thing. Alternatively read through this readme again.
- 7. If the installation is not successful, then try closing Wabbajack and restarting the installation. It should pick up where it left off.
+ 7. If the installation is not successful, then click the retry button. Sometimes it fails to source a file or two unexpectadly, even though they exist on Nexus Mods. If that doesn't work, try closing Wabbajack and restarting the installation. It should pick up where it left off.
 
 >
 >[!WARNING]
