@@ -130,12 +130,15 @@ As a result of this, for users who do not own the AE, you must ensure that you d
  - Navigate to your Skyrim SE's Steam Data folder
     - e.g. `D:\SteamLibrary\steamapps\common\Skyrim Special Edition\data`
  - Delete *both* Rare Curios files:
-    - `ccbgssse037-curios.bsa`
-    - `ccbgssse037-curios.esl`
+    - `ccbgssse037-Curios.bsa`
+    - `ccbgssse037-Curios.esl`
  - Launch Skyrim SE from Steam and select **Creations** at the main menu
  - Select **Search** at the bottom and search for `Rare Curios`
  - Select the card titled `Rare Curios` and press **Download**
  - Once it is done, accept Bethesda's load order message and exit the game
+ - The new (lowercase c) Rare Curios files will now be in your Skyrim's data folder
+   - `ccbgssse037-curios.bsa`
+   - `ccbgssse037-curios.esl`
 
 <p align="center">
   <a href="#ainulindale---a-skyrim-wabbajack-mod-list">
