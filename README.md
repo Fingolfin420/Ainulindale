@@ -42,7 +42,7 @@ Before installing this list using Wabbajack, there are several pre-installation 
 | CPU | AMD Ryzen 7 5800X | Intel i5-14600K |
 | Memory | 16 - 32 GB of RAM  | 32 GB of RAM |
 | GPU | Anything with at least 12GB of VRAM should suffice | NVidia RTX 4070 12GB VRAM | 
-| Drive | SATA SSD or (preferably) NVME SSD | NVME SSD w/ 500 GB Available Storage | 
+| Drive | SATA SSD or (preferably) NVME SSD | NVME SSD w/ 425 GB Available Storage | 
 
 >[!IMPORTANT]
 >Although 12 GB of VRAM is ideal, it is possible to use a tool like [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557) to reduce the quality of textures used in the modlist. Most textures in the list are already 2K, with 4K textures sprinkled in for specific items. Additionally,
