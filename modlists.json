@@ -1,38 +1,43 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Ainulindale",
-    "description": "Ainulindale is a mod list that expands Skyrim's visuals, overhauls locations, and includes minor combat tweaks. It doesn't go overboard changing game mechanics. Expect lots of city and location overhauls and great (imo) visuals. I named it Ainulindale because Skyrim modding seemed (still seems) to get me completely engrossed in a fantasy world, just like how I felt when I first read the Silmarillion. But don't worry, this isn't a Tolkien themed mod list. It retains what makes Skyrim, Skyrim, while bringing it closer to a modern game. ",
+    "description": "Ainulindale is a mod list that expands Skyrim\u0027s visuals, overhauls locations, and includes minor combat tweaks. It doesn\u0027t go overboard changing game mechanics. Expect lots of city and location overhauls and great (imo) visuals. I named it Ainulindale because Skyrim modding seemed (still seems) to get me completely engrossed in a fantasy world, just like how I felt when I first read the Silmarillion. But don\u0027t worry, this isn\u0027t a Tolkien themed mod list. It retains what makes Skyrim, Skyrim, while bringing it closer to a modern game. ",
     "author": "Fingolfin420",
     "maintainers": [
       "github/Fingolfin420"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fingolfin420/Ainulindale/refs/heads/main/page_assets/morgoth_fingolfin.jpg",
       "readme": "https://github.com/Fingolfin420/Ainulindale/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_282200a9-baf7-4d53-a7a8-f42ef7b9968c",
+      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_849be75b-720c-49c1-845d-2f7b7b1959db",
       "machineURL": "Ainulindale",
-      "discordURL": ""
+      "discordURL": "",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "5SVmTUZYvfk=",
-      "Size": 78503747,
+      "Hash": "j7lbDhxxZJs=",
+      "Size": 139612966,
       "NumberOfArchives": 1637,
-      "SizeOfArchives": 151759742675,
-      "NumberOfInstalledFiles": 141608,
-      "SizeOfInstalledFiles": 208133181030
+      "SizeOfArchives": 151762381825,
+      "NumberOfInstalledFiles": 141610,
+      "SizeOfInstalledFiles": 208133227182,
+      "TotalSize": 359895609007
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-10T15:49:50.068088Z",
+    "repositoryName": ""
   }
 ]
