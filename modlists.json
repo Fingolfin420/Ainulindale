@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fingolfin420/Ainulindale/refs/heads/main/page_assets/morgoth_fingolfin.jpg",
       "readme": "https://github.com/Fingolfin420/Ainulindale/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_7d9290a6-234f-4a45-954c-a324ec87c381",
+      "download": "https://authored-files.wabbajack.org/Ainulindale.wabbajack_9f651cf7-5dad-4f54-b27e-484cc19d4736",
       "machineURL": "Ainulindale",
       "discordURL": "",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "XsWrWRoOx/E=",
-      "Size": 139612988,
-      "NumberOfArchives": 1637,
-      "SizeOfArchives": 151762381825,
+      "Hash": "E/BlLDQrsJs=",
+      "Size": 139613435,
+      "NumberOfArchives": 1636,
+      "SizeOfArchives": 151762381035,
       "NumberOfInstalledFiles": 141610,
-      "SizeOfInstalledFiles": 208133227182,
-      "TotalSize": 359895609007
+      "SizeOfInstalledFiles": 208133226372,
+      "TotalSize": 359895607407
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-10T15:59:24.84905Z",
+    "dateUpdated": "2025-11-16T02:36:46.7439871Z",
     "repositoryName": ""
   }
 ]
