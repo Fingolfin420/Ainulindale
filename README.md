@@ -212,8 +212,6 @@ As a result, users will have to generate their own LODs with these tools. That b
 
 In the next section their are instructions specific to PGPatcher, since it is slightly more complicated for the user that must sort texture mods in a pop-ip when running the tool. Images and instructions are provided in case people prefer static examples over a video. 
 
-### PGPatcher
-
 A tool called [PGPatcher (a.k.a. ParallaxGen)](https://www.nexusmods.com/skyrimspecialedition/mods/120946) is installed as a mod in the modlist. 
 
 After installation, it is **imperative** that the user run this tool to acquire its output, which drastically improves the game's visuals when paired with the [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) modules installed. Also, the PBR texture mods in the modlist will not function with PGPatcher's output enabled. PGPatcher is set up as a tool in Ainulindale's MO2 installation. 
