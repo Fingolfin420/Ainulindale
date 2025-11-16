@@ -204,7 +204,7 @@ To install Ainulindale, complete the following steps:
 
 Follow the instructions in the video linked below. It is a comprehensive video for installing BodySlide Output, Nemesis Output, Grass Cache, and running tools to generate xLODGen, TexGen, and DynDOLOD output. It will show you the exact setting you need for each tool, and show you how to sort each mod and output at the end of the Ainulindale load order. It is VERY important to follow. 
 
-![Ainulindale - Post Installation Instructions](https://www.youtube.com/watch?v=1hec5EjI-g0)
+[Ainulindale - Post Installation Instructions](https://www.youtube.com/watch?v=1hec5EjI-g0)
 
 Previously, this README instructed users to run PGPatcher and install a number of pre-generated outputs. That advice has changed somewhat. The reason is that it has come to my attention that the PGPatcher application executes, slightly, differently each time it is run. DynDOLOD output, which is responsible for creating LODs for Skyrim, depends on PGPatcher output. Since PGPatcher output is generated slightly differently each time, pre-generated LOD outputs are impossible. This is especially the case since this mod list relies on PBR textures, which REQUIRE PGPatcher, so I cannot just remove the tool. 
 
