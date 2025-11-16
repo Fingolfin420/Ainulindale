@@ -27,8 +27,6 @@ I named it Ainulindale because Skyrim modding seemed (still seems) to get me com
    - [Installing Wabbajack](#installing-wabbajack)
 3. [Downloading and Installing Ainulindale](#downloading-and-installing-ainulindale)
 4. [Post-Installation](#post-installation)
-   - [PGPatcher](#pgpatcher)
-   - [Download Outputs from Ainulindale Nexus Page](https://github.com/Fingolfin420/Ainulindale/blob/main/README.md#download-outputs-from-ainulindale-nexus-page)
 6. [Updating the Modlist](#updating-the-modlist)
 7. [Removing the Modlist](#removing-the-modlist)
 
