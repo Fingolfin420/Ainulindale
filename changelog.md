@@ -2,6 +2,17 @@
 
 All changes to this modlist will be posted here. Changes will include the addition and removal of certain mods, patches, modification of custom patches shipped with Ainulindale, updated outputs for mods including xLODGen, TexGen, DynDOLOD, etc.
 
+## 1.0.2
+
+<details>
+  <summary>Update: Patch</summary>
+  
+  - Removed mod [No Camera Collision](https://www.nexusmods.com/skyrimspecialedition/mods/19310?tab=files)
+      - Replaced functionality with tweaks to SSE Display Tweaks ini file, which does the same without occupying an esp slot.
+  - Created Wabbajack NoMatchInclude empty mod folders for `Ainulindale - PGPatcher output` and `Ainulindale xLODGen_Output`.
+      - Users will from now on be required to generate their own xLODGen output, TexGen Output, and DynDOLOD output. [View this video](https://www.youtube.com/watch?v=1hec5EjI-g0) for detailed instructions on how.  
+</details>
+
 ## 1.0.1
 
 <details>
@@ -16,5 +27,6 @@ All changes to this modlist will be posted here. Changes will include the additi
 ## 1.0.0 (2025/11/09)
 
 Mod List release.
+
 
 
