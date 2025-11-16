@@ -200,6 +200,16 @@ To install Ainulindale, complete the following steps:
 
 ## Post-Installation
 
+### Tutorial Video
+
+Follow the instructions in the video linked below. It is a comprehensive video for installing BodySlide Output, Nemesis Output, Grass Cache, and running tools to generate xLODGen, TexGen, and DynDOLOD output. It will show you the exact setting you need for each tool, and show you how to sort each mod and output at the end of the Ainulindale load order. It is VERY important to follow. 
+
+![Ainulindale - Post Installation Instructions](https://www.youtube.com/watch?v=1hec5EjI-g0)
+
+Previously, this README instructed users to run PGPatcher and install a number of pre-generated outputs. That advice has changed somewhat. The reason is that it has come to my attention that the PGPatcher application executes, slightly, differently each time it is run. DynDOLOD output, which is responsible for creating LODs for Skyrim, depends on PGPatcher output. Since PGPatcher output is generated slightly differently each time, pre-generated LOD outputs are impossible. This is especially the case since this mod list relies on PBR textures, which REQUIRE PGPatcher, so I cannot just remove the tool. 
+
+As a result, users will have to generate their own LODs with these tools. That being said, it is easy since I have provided detailed instructions on how to do so in the above video. With the video as a reference, it should be very straightforward for users to generate LODs that match the intended look of the modlist. If issues arise, please post on the [Ainulindale Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163572?tab=description), under posts. I'll do my best to help troubleshoot. 
+
 ### PGPatcher
 
 A tool called [PGPatcher (a.k.a. ParallaxGen)](https://www.nexusmods.com/skyrimspecialedition/mods/120946) is installed as a mod in the modlist. 
@@ -229,25 +239,17 @@ Once PGPatcher has finished generating the needed files, ensure that the mod loa
   <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/PGPatcher_4.png">
 </p>
 
-
-### Download Outputs from Ainulindale Nexus Page
-
 The final step for installing Ainulindale is easy. Ainulindale has a [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163572). On this mod page there are a number of mod files under the main section that need to be installed. They include...
 
 - Ainulindale - Body Slide Output
 - Ainulindale - Nemesis Output
-- Ainulindale - xLODGen_Output
 - Ainulindale - Grass Cache
-- Ainulindale - TexGen_Output
-- Ainulindale - DynDOLOD_Output
 
 Install all of these mods, and ensure they follow the load order in the image below.
 
 <p align="center">
   <img src="https://github.com/Fingolfin420/Ainulindale/blob/main/page_assets/Nexus_Outputs.png">
 </p>
-
-AND that's it!
 
 
 ## Updating the Modlist
