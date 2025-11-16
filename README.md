@@ -210,6 +210,8 @@ Previously, this README instructed users to run PGPatcher and install a number o
 
 As a result, users will have to generate their own LODs with these tools. That being said, it is easy since I have provided detailed instructions on how to do so in the above video. With the video as a reference, it should be very straightforward for users to generate LODs that match the intended look of the modlist. If issues arise, please post on the [Ainulindale Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/163572?tab=description), under posts. I'll do my best to help troubleshoot. 
 
+In the next section their are instructions specific to PGPatcher, since it is slightly more complicated for the user that must sort texture mods in a pop-ip when running the tool. Images and instructions are provided in case people prefer static examples over a video. 
+
 ### PGPatcher
 
 A tool called [PGPatcher (a.k.a. ParallaxGen)](https://www.nexusmods.com/skyrimspecialedition/mods/120946) is installed as a mod in the modlist. 
